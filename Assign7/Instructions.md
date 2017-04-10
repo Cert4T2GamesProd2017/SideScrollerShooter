@@ -8,9 +8,13 @@ You will be given a Side Scroller Game Kit with all the coding and assets  inclu
 Choose a game setting,  characters and narrative using the gameplay and artificial intelligence provided.  
 
 •	This is assessment on your ability to design levels, not on programming.  Keep the programming time to a minimum.
+
 •	Use the player character and AI characters provided.  You may change its appearance or add weapons, but use only the UE4 skeletal mesh provided.  
+
 •	You must submit a level that shows you considered the flow of the player navigation in the map. 
+
 •	Objectives,  obstacles and winning scenario must be present.
+
 •	The environment must not be using the default game enviroment included in the Side Scrolling Kit.
 
 Your teacher will meet with your group each class, and discuss your progress relative to your schedule. 
