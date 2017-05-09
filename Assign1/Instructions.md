@@ -1,6 +1,7 @@
 Assignment 1 : Team Roles and Responsibilities
 
  Research the typical responsibilities of the following personnel in a game development team:
+ 
 •	Producer
 
 •	Games Designer
